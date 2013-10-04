@@ -1,4 +1,4 @@
-# jQueryMobile-SwipeUpDown
+## jQueryMobile-SwipeUpDown
 
 Copyright (C)2012 Donnovan Lewis
 
